@@ -1,0 +1,11 @@
+FONT LICENSES & ATTRIBUTION
+
+1. Inter Font Family
+Copyright (c) 2016-2024 The Inter Project Authors (https://github.com/rsms/inter)
+Licensed under the SIL Open Font License, Version 1.1 (OFL-1.1)
+https://openfontlicense.org
+
+2. JetBrains Mono Font Family
+Copyright (c) 2020 JetBrains s.r.o. (https://www.jetbrains.com/lp/mono/)
+Licensed under the SIL Open Font License, Version 1.1 (OFL-1.1)
+https://openfontlicense.org
