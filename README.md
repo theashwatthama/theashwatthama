@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="assets/hero.svg?v=1" alt="Supreet Bahoria — Java Backend Developer" width="850" />
+  <img src="assets/hero.svg?v=2" alt="Supreet Bahoria — Java Backend Developer" width="850" />
 </p>
 
 <p align="center">
-  <img src="assets/about-life.svg?v=1" alt="Capabilities & Engineering Interests" width="850" />
+  <img src="assets/about-life.svg?v=2" alt="Capabilities & Engineering Interests" width="850" />
 </p>
 
 <p align="center">
-  <img src="assets/stack.svg?v=1" alt="Tech Stack & Planetary Ecosystem" width="850" />
+  <img src="assets/stack.svg?v=2" alt="Tech Stack & Planetary Ecosystem" width="850" />
 </p>
 
 <p align="center">
-  <img src="assets/id-dashboard.svg?v=1" alt="Supreet Bahoria — Developer ID Card" width="850" />
+  <img src="assets/id-dashboard.svg?v=2" alt="Supreet Bahoria — Developer ID Card" width="850" />
 </p>
 
 <p align="center">
-  <img src="assets/connect.svg?v=1" alt="Connect me via" width="850" />
+  <img src="assets/connect.svg?v=2" alt="Connect me via" width="850" />
 </p>
 
 ---
